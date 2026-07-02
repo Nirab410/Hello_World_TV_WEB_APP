@@ -325,7 +325,7 @@ const channels = [
     name: "BeIN Sports 3",
     category: "Sports",
     logo: "https://i.ibb.co.com/VpMNnbjf/XTRA-2.webp",
-    url: "https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8",
+    url: "https://andro.evrenesoglu57.click/checklist/androstreamliveexn4.m3u8",
   },
   {
     name: "Fifa Live",
