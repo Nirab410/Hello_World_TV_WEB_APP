@@ -320,7 +320,6 @@ const channels = [
     category: " Fifa Live",
     logo: "https://i.ibb.co.com/VpMNnbjf/XTRA-2.webp",
     url: "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
-    https://andro.evrenesoglu57.click/checklist/androstreamliveexn1.m3u8
   },
   {
     name: "BeIN Sports 3",
