@@ -297,6 +297,12 @@ const channels = [
     url: "https://tvsen5.aynaott.com/PtvSports/index.m3u8?e=1780236743&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=76f74dfc4bdff676d7ce6ad4070d1761",
   },
   {
+    name: "Fifa Live",
+    category: "Fifa Live",
+    logo: "https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png",
+    url: "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783366103-0-0-22529c3f65969c7cdd810209a64927e6",
+  },
+  {
     name: "Koora City",
     category: " Fifa Live",
     logo: "https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png",
@@ -326,12 +332,6 @@ const channels = [
     category: "Fifa Live",
     logo: "https://i.ibb.co.com/VpMNnbjf/XTRA-2.webp",
     url: "https://andro.evrenesoglu57.click/checklist/androstreamliveexn4.m3u8",
-  },
-  {
-    name: "Fifa Live",
-    category: "Fifa Live",
-    logo: "https://i.ibb.co.com/vnbkF0r/fifa-world-cup-2026-logo-png-seeklogo-665644.png",
-    url: "https://pull.niues.live/live/stream-534219_lhd.m3u8?auth_key=1782784162-0-0-1c9a6e36993915c9c102448d5e7dfbb5",
   },
 ];
 
